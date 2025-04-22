@@ -1,0 +1,11 @@
+transformers>=4.38.0
+datasets
+pandas
+scikit-learn
+joblib
+torch
+tqdm
+openpyxl
+numpy
+matplotlib
+seqeval
